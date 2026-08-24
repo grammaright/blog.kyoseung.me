@@ -23,7 +23,7 @@ email: grammaright@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   related to database
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.debug.sexy" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.kyoseung.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: grammaright/minima # 10124515953527c8990a2de99ae4ddb2a81ffee3
